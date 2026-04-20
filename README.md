@@ -15,6 +15,9 @@
 
 Designed for **Tier 2 / Tier 3 users**, it simplifies complex banking terms into clear, actionable insights.
 
+Deployed App Link: https://niveshmitra-ai.streamlit.app/
+
+Live Demo Link: 
 ---
 
 ## 🎯 Problem
